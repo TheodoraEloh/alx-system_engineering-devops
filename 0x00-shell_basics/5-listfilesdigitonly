@@ -1,2 +1,1 @@
-#!/bin/bash
-ls -nd
+ls -n
